@@ -16,3 +16,16 @@ Como a turma é reduzida para eu conseguir corrigir o movimento de cada um de pe
 
 Clica no link abaixo e garante a tua vaga agora antes que esgote.
 [12/11, 12:21] Estúdio Leo Gomes: https://quem-danca-e-mais.web.app/
+
+---
+
+[12/11, 14:18] Link de checkout (Kiwify): https://pay.kiwify.com.br/TTCiqLd
+
+[12/11, 14:39] Estúdio Leo Gomes: Se você sente que:
+1. parou de evoluir na dança?
+2. que os passos parecem todos iguais?
+3. o abraço está sem conexão real?
+4. tem um monte de figuras decoradas e nenhuma musicalidade?
+5. tem dificuldade pra dançar com pessoas de fora do teu círculo?
+
+Se você sente tudo isso, é porque chegou a hora de ajustar e lapidar os teus passos. Fazer isso sozinho até pode dar certo, mas vai demorar meses — ou até anos — pra entender tudo aquilo que eu posso corrigir contigo num encontro único.
