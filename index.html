@@ -328,6 +328,11 @@ html body section#grupo .flink:hover .flink-selo{ filter:brightness(1.06); }
 html body section#grupo .flink-icone{ width:32px; height:32px; background:#1A0F04; color:#F6C056; }
 html body section#grupo .flink-icone svg{ width:17px; height:17px; }
 html body section#grupo .flink-txt strong{ font-family:var(--f-texto); font-weight:800; font-size:clamp(1rem, 4.2vw, 1.1rem); line-height:1.2; color:#1A0F04; overflow-wrap:normal; }html body > section#grupo{ order:11; }
+
+@keyframes piscaZap{ 0%, 100%{ background-color:rgb(37 211 102 / .05); box-shadow:inset 0 0 0 1.5px currentColor, 0 0 0 0 rgb(37 211 102 / .5); } 50%{ background-color:rgb(37 211 102 / .24); box-shadow:inset 0 0 0 2px #25D366, 0 0 0 9px rgb(37 211 102 / 0); } }
+html body .acoes a[href*="chat.whatsapp.com"]{ animation:piscaZap 1.5s ease-in-out infinite; }
+html body .acoes a[href*="chat.whatsapp.com"]:hover{ animation-play-state:paused; }
+@media (prefers-reduced-motion: reduce){ html body .acoes a[href*="chat.whatsapp.com"]{ animation:none; } }
 html body > footer.rodape{ order:12; }
 
 </style>
